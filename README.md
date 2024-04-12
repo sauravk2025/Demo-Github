@@ -1,3 +1,4 @@
 # Demo-Github
-My first Git Repo
-Name- Saurav Krishnan
+My first Git Repository
+<br>
+Name- <b>Saurav Krishnan</b>
